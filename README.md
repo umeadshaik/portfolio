@@ -35,11 +35,7 @@ Hosted on Netlify / GitHub Pages for seamless performance & accessibility.
 📩 Contact Me
 If you’d like to collaborate, discuss opportunities, or just say hi:
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🐙 GitHub: Your GitHub Profile
+📧 Email: umeadshaik@gmail.com
 
 Thank you for visiting my portfolio! 🌟
 If you like it, feel free to ⭐ star this repo and share!
